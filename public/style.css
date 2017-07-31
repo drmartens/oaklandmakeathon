@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Work+Sans');
+
+#locations {
+ align-content:center;
+    width: 60%;
+    height: 100px;
+    display: -webkit-flex; /* Safari */
+    -webkit-flex-flow: row-reverse wrap; /* Safari 6.1+ */
+    display: inline-flex;
+    flex-flow: row-reverse wrap;   
+}
+
+#one {
+  background-color: #d72980;
+  width: 100px;
+  height:100px;
+}
+
+#two {
+    background-color: #e77fb3;
+    width:100px;
+    height:100px;
+}
+
+#logo {
+background-image: url("/images/logo.png");
+background-size: 100%;
+width:100px;
+height:100px;
+}
+
+#main {
+	align-content:center;
+    width: 60%;
+    height: 200px;
+    display: -webkit-flex; /* Safari */
+    -webkit-flex-flow: row-reverse wrap; /* Safari 6.1+ */
+    display: inline-flex;
+    flex-flow: row-reverse wrap;
+}
+
+#button {
+    background-color: #d72980;
+    color:;
+}
+
+
+.title {
+font-family: 'Nunito', sans-serif;
+font-size: 16px;
+text-align:center;
+color: #864037;
+}
+
+.container {
+width: 100px;
+
+}
+
+.container img {
+align-content: center;
+height:100px;
+width:100px;
+border-radius: 50px;
+}
+
+#designer {
+font-family: 'Nunito', sans-serif;
+font-size: 20px;
+text-align:center;
+color: #864037;
+}
+
+#designerTitle {
+font-family: 'Nunito', sans-serif;
+font-size: 24px;
+text-align:center;
+color: #864037;
+}
+
+#makerTitle {
+font-family: 'Nunito', sans-serif;
+font-size: 24px;
+text-align:center;
+color: #864037;
+}
+
+#productTitle {
+font-family: 'Work-Sans', sans-serif;
+font-style:bold;
+font-size: 30px;
+text-align:center;
+color: #eee3df;
+}
+
+#maker {
+font-family: 'Nunito', sans-serif;
+font-size: 20px;
+text-align:center;
+color: #864037;
+}
+
+#model{
+font-family: 'Nunito', sans-serif;
+font-size: 20px;
+text-align:center;
+color: #864037;
+}
+
+#button {
+margin-left:50%;
+margin-right:50%;
+}
+
+#designerImage {
+width:30%;
+height:30%;
+border-radius: 50%;
+padding-bottom:5%;
+padding-top:2%;
+
+}
+
+#makerImage {
+width:30%;
+height:30%;
+border-radius: 50%;
+padding-bottom:5%;
+padding-top:2%;
+}
+
+#contactLogo {
+    width:20%;
+    height:20%;
+}
+
+#productInfo {
+    padding-right:10%;
+    padding-left:10%;
+    line-height: 200%;
+    font-family: 'Work-Sans', sans-serif;
+    font-size: 18px;
+    color:#eee3df;
+}
+
+#productTagline {
+ font-family: 'Work-Sans', sans-serif;
+font-style:italic;
+font-size: 22px;
+text-align:center;
+color:#d2b29d;
+}
+
+#makerBio {
+    padding-right:10%;
+    padding-left:10%;
+ 
+}
+
+#designerBio{
+    padding-right:10%;
+    padding-left:10%;
+}
+
